@@ -10,12 +10,12 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] Users are see a screen with three labels and a button
+- [x] Users can see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
 
 The following **additional** functionality is completed:
 
-- [x] First label is italisized
+- [x] First label is italicized
 - [x] All labels have different colors
 - [x] Default background color is changed to a different color
  
@@ -47,7 +47,7 @@ The main challenges were just adapting to Xcode and the Swift language. I had to
 
 ## License
 
-    Copyright [2023] [Matin Bari]
+    Copyright 2023 Matin Bari
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
